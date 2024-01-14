@@ -44,7 +44,7 @@ const uint16_t    key_debounce_10ms                =    20 / 10;   // 20ms
 
 const uint8_t     scan_delay_10ms                  =   210 / 10;   // 210ms
 
-const uint16_t    dual_watch_count_after_tx_10ms   =  3600 / 10;   // 3.6 sec after TX ends
+const uint16_t    dual_watch_count_after_tx_10ms   =  3600 / 10;   // 50mc after TX ends
 const uint16_t    dual_watch_count_after_rx_10ms   =  1000 / 10;   // 1 sec after RX ends ?
 const uint16_t    dual_watch_count_after_1_10ms    =  5000 / 10;   // 5 sec
 const uint16_t    dual_watch_count_after_2_10ms    =  3600 / 10;   // 3.6 sec
